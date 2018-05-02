@@ -8,7 +8,7 @@ I'm a Korean high school student interested in server development and hacking.
 
 ### More Information
 
-Facebook : https://www.facebook.com/profile.php?id=100006944379028
+Facebook : https://www.facebook.com/profile.php?id=100006944379028<br>
 School Homepage : http://dsm.hs.kr
 
 ### Contact me
