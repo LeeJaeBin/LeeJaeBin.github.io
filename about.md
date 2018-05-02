@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Korean high school student interested in server development and hacking.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Facebook : https://www.facebook.com/profile.php?id=100006944379028
+School Homepage : http://dsm.hs.kr
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dmlwlsdk07@gmail.com](mailto:email@domain.com)
