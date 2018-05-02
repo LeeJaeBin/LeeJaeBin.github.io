@@ -3,8 +3,6 @@ layout: post
 title: Node js Login Process Passport 사용 안하고 구현하기
 ---
 
-# Node js Login Process Passport 사용 안하고 구현하기
-
 Passport로 구현해 보기 전에 야매(?)로 구현해 본 로그인 프로세스이다.
 
 ```javascript
